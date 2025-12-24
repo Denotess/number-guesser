@@ -5,7 +5,7 @@ A small Go command-line game where you try to guess a randomly chosen number.
 ## Clone
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Denotess/number-guesser
 cd number-guesser
 ```
 
