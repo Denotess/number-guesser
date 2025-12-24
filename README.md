@@ -9,12 +9,6 @@ git clone <repo-url>
 cd number-guesser
 ```
 
-## Commands
-
-```bash
-go run main.go
-```
-
 ## How It Works
 
 - The program picks a random number when it starts.
