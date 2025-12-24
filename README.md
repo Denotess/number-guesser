@@ -21,3 +21,6 @@ cd number-guesser
 ```bash
 go run .
 ```
+
+
+[Project idea link](https://roadmap.sh/projects/number-guessing-game)
